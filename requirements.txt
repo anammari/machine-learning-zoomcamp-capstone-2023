@@ -1,0 +1,14 @@
+jupyter
+jupyter_contrib_nbextensions
+notebook==6.4.12
+traitlets==5.9.0
+numpy
+pandas
+tensorflow-cpu
+keras-image-helper
+pillow
+grpcio==1.42.0
+tensorflow-serving-api==2.7.0
+flask
+matplotlib
+scikit-learn
