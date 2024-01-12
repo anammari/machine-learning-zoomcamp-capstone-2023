@@ -19,3 +19,6 @@ __pycache__/
 
 # temp files
 **temp/
+
+# notes
+notes.txt

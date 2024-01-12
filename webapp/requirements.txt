@@ -1,0 +1,4 @@
+taipy
+requests
+Pillow
+numpy
